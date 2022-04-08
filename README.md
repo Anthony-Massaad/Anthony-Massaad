@@ -8,6 +8,8 @@
 
 - Or find me on [Linkedin](https://www.linkedin.com/in/anthony-massaad-782b911b6/) or [Instagram](https://www.instagram.com/tony1bally/)
 
+- Or Email me at <a href="mailto:massaadanthony@hotmail.com">massaadanthony@hotmail.com</a>
+
 
 <!--
 ### Here are some of the languages that I know:
