@@ -9,9 +9,9 @@
 
 - 📚 I am currently a Software Engineering student at Carleton university! 
 
-- 👀 I’m interested in designing and creating tools, applications and solutions that I can use in my daily life or that can help others! Whether it's for games, school, work, or fun projects. A large passion of mine is to start and learn as I complete projects. I love uncovering new and cool ways to simplify and write effecient code that will help better my code readability and my programming skills! 
+- 👀 I’m interested in designing and creating tools, applications and solutions that I can use in my daily life or that can help others! Whether it's for games, school, work, or fun projects. At the same time, a large passion of mine is to start and learn as I complete projects. I love uncovering new and cool ways to simplify and write effecient code that will help better my code readability and my programming skills! 
 
-- :speech_balloon: I hope to collaborate with other ambitious desiners/developers to create fascinating applications and solutions. I’m opened to meeting new people and discussing about ideas and ways to better my programming skills or assist in any way I can!
+- :speech_balloon: I hope to collaborate with other aspiring desiners/developers to create fascinating applications and solutions. I’m opened to meeting new people and discussing about ideas and ways to better my programming skills or assist in any way I can!
 
 - Feel free to check out my [:globe_with_meridians: Website Here!](https://anthony-massaad.github.io/)
 
