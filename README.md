@@ -17,7 +17,7 @@
 
 ### 📫 How To Reach Me:
 
-- Find me on :iphone: [Linkedin](https://www.linkedin.com/in/anthony-massaad-782b911b6/) or [Instagram](https://www.instagram.com/tony1bally/)
+- Find me on :iphone: [Linkedin](https://www.linkedin.com/in/anthony-massaad-782b911b6/)
 
 - Or Email me at :email: <a href="mailto:massaadanthony@hotmail.com">massaadanthony@hotmail.com</a>
 
