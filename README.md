@@ -21,14 +21,6 @@
 
 - Or Email me at :email: <a href="mailto:massaadanthony@hotmail.com">massaadanthony@hotmail.com</a>
 
-<h3>
-  Here are some of the languages I know:
-  <br/>
-  <br/>
-  <img style="pointer-events:none; float:none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-massaad&layout=compact&hide=Turing,Assembly&langs_count=10&theme=radical" />
-</h3>
-
-
 <!--
 # Hi, I'm Anthony and Welcome to my Github!
 
