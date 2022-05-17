@@ -1,8 +1,6 @@
 <h1 align="center">
   Hi, I'm Anthony and Welcome to my Github!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <br/>
-  <img  style="margin:0;" src="https://komarev.com/ghpvc/?username=anthony-massaad&style=flat-square&color=blue" alt=""/>
 </h1>
 
 ### 👩‍💻 About Me:
