@@ -4,7 +4,7 @@
 
 ### 👩‍💻 About Me:
 
-- 📚 I am currently a Software Engineering student at Carleton university! 
+- 📚 I am currently a Software Engineering graduate from Carleton university! 
 
 - 👀 I’m interested in designing and creating tools, applications and solutions that I can use in my daily life or that can help others! Whether it's for games, school, work, or fun projects. At the same time, a large passion of mine is to start and learn as I complete projects. I love uncovering new and cool ways to simplify and write effecient code that will help better my code readability and my programming skills! 
 
