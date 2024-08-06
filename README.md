@@ -4,11 +4,9 @@
 
 ### 👩‍💻 About Me:
 
-- 📚 I am currently a Software Engineering graduate from Carleton university! 
+I am a software engineer with over 2 years of experience and a Carleton University graduate. My passion lies in collaboration and problem-solving through software development. I have honed my skills across various programming languages and technologies, with a strong emphasis on web development, Python, Java, and C.
 
-- 👀 I’m interested in designing and creating tools, applications and solutions that I can use in my daily life or that can help others! Whether it's for games, school, work, or fun projects. At the same time, a large passion of mine is to start and learn as I complete projects. I love uncovering new and cool ways to simplify and write effecient code that will help better my code readability and my programming skills! 
-
-- :speech_balloon: I hope to collaborate with other aspiring desiners/developers to create fascinating applications and solutions. I’m opened to meeting new people and discussing about ideas and ways to better my programming skills or assist in any way I can!
+I am dedicated to continuous learning and am always seeking opportunities to enhance my skills while staying updated with the latest technology. As a software engineer, I thrive for quality, efficiency, and innovation. I also thrive in collaborative environments where I can contribute to and learn from a team, driving projects to successful completion. If you'd like to explore some of the projects I've worked on, feel free to check out my Github profile. I am actively seeking full-time software developer positions to further advance my career.
 
 - Feel free to check out my [:globe_with_meridians: Website Here!](https://anthonymassaadportfolio.vercel.app/)
 
